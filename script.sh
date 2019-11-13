@@ -1,1 +1,1 @@
-sudo pm2 restart app.js
+sudo pm2 start app.js
